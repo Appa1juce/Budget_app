@@ -1,0 +1,66 @@
+body {
+    font-family: 'Caladea';
+    background: linear-gradient(to right, #0011fc, #7b16e0, #4f11d4, #d41111);
+}
+
+main{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+section{
+    margin-bottom: 6vh;
+}
+
+h3{
+    font-size: 1.5em;
+    margin-bottom: 0px;
+}
+
+input{
+    display: block;
+    width: 200px;
+    height: 30px;
+    border-radius: 4px;
+    border: 2px solid #11c0d4;
+    margin:10px auto;
+    padding: 0 4px;
+    font-size: 1em;
+    font-family: "Caladea";
+}
+
+button{
+padding: 10px 20px;
+border-radius: 5px;
+border: none;
+color: aqua;
+background-color: black;
+font: 1em;
+font-family: "Caladea";
+}
+
+button:hover{
+    background-color: #fff305;  
+    color: black;
+}
+
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+
+#main-header{
+    color: orange;
+}
+
+#add-expense{
+    color: gray;
+}
+
+#monthly-budget{
+    color: rgb(0, 255, 0);
+}
+
